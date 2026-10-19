@@ -15,7 +15,7 @@
 
 ## 📌 Sobre o projeto
 
-Este é meu primeiro projeto completo de Business Intelligence. O objetivo foi construir, do zero, um relatório de vendas que responde perguntas reais de negócio: **o que vendemos, onde, para quem, com que margem e em que época.**
+O objetivo foi construir, do zero, um relatório de vendas que responde perguntas reais de negócio: **o que vendemos, onde, para quem, com que margem e em que época.**
 
 O projeto cobre todo o fluxo de trabalho de um analista de dados:
 
